@@ -1,0 +1,3 @@
+const EXAMPLE_CONSTANT = 700;
+
+export default EXAMPLE_CONSTANT;
